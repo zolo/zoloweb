@@ -1,3 +1,4 @@
 theme: jekyll-theme-slate
 title: Zolo
 description: A collection of open source tools and libraries.
+show_downloads: false
